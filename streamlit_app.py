@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+pip instal streamlit pandas openpyx1
 st.set_page_config(page_title="Sponsor Match", layout="wide")
 st.title("Golden Goal: Hitta sponsorer i Göteborgsområdet")
 
